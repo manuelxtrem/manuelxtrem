@@ -1,7 +1,7 @@
 ### manuelxtrem 💻
 - 🌱 currently learning DevOps, AI
 - 👯 looking to collaborate on AI related projects
-- 💬 ask me anything about programming, software cycles, mentorship
+- 💬 ask me anything about technology, programming, software, mentorship
 - 💡 creating the future, one project at a time
 
 
